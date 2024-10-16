@@ -30,6 +30,7 @@ body {
   color: skyblue;
  }
 
-#basic .bold-text {
+#basic p {
   font-weight: bold;
 }
+
